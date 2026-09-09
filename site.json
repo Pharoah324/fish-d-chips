@@ -1,0 +1,223 @@
+{
+  "ui": {
+    "send": "Send",
+    "sending": "Sending…",
+    "support": "Support",
+    "thank_you": "Thank you!",
+    "get_started": "Get Started",
+    "contact_heading": "Get in Touch",
+    "name_placeholder": "Your name",
+    "reservation_note": "We'll confirm your reservation by phone or email.",
+    "email_placeholder": "Your email",
+    "phone_placeholder": "Your phone number",
+    "contact_subheading": "Questions, catering requests, or feedback — we'd love to hear from you",
+    "message_placeholder": "Tell us what you need…",
+    "we_will_be_in_touch": "We'll be in touch within 24 hours."
+  },
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Fish D Chips",
+  "theme": {
+    "style": "editorial",
+    "accent": "34 85% 52%",
+    "accent2": "150 25% 35%",
+    "primary": "20 65% 40%",
+    "background": "38 45% 96%",
+    "foreground": "25 35% 15%"
+  },
+  "tagline": "London-Style Fish & Chips, Fried Your Way, Fresh to South Fulton",
+  "industry": "restaurant",
+  "sections": [
+    {
+      "cta": "Order Online Now",
+      "type": "hero",
+      "layout": "image-background",
+      "heading": "Real London-Style Fish & Chips, Fried Fresh in South Fulton",
+      "image_alt": "A delicious serving of fish and chips with a refreshing beer, perfect for a casual dining experience.",
+      "image_url": "https://images.pexels.com/photos/10325093/pexels-photo-10325093.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "subheading": "Pick your fish. Pick your style. Our London-trained chef beer-batters it to golden perfection, made to order and delivered hot.",
+      "cta_urgency": "Delivering across South Fulton & Atlanta tonight",
+      "image_thumb": "https://images.pexels.com/photos/10325093/pexels-photo-10325093.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "image_credit": "",
+      "image_placement": "background",
+      "image_search_query": "golden beer battered fish and chips close up basket"
+    },
+    {
+      "type": "features",
+      "items": [
+        {
+          "body": "Our chef's original London recipe — a crisp, airy beer batter fried golden around flaky cod.",
+          "title": "Classic Beer-Battered Cod",
+          "icon_name": "UtensilsCrossed",
+          "image_alt": "Delicious fish and chips served with tartar sauce, mushy peas, and a lemon wedge in a black dish.",
+          "image_url": "https://images.pexels.com/photos/14924014/pexels-photo-14924014.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "image_thumb": "https://images.pexels.com/photos/14924014/pexels-photo-14924014.jpeg?auto=compress&cs=tinysrgb&h=350",
+          "image_credit": "",
+          "image_search_query": "beer battered cod fillet fish and chips"
+        },
+        {
+          "body": "A nod to Atlanta — crunchy cornmeal-crusted catfish with a peppery kick.",
+          "title": "Southern Cornmeal Catfish",
+          "icon_name": "Flame",
+          "image_alt": "A close-up of crispy fish and chips with a lemon wedge, perfect for a delicious meal.",
+          "image_url": "https://images.pexels.com/photos/9725989/pexels-photo-9725989.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "image_thumb": "https://images.pexels.com/photos/9725989/pexels-photo-9725989.jpeg?auto=compress&cs=tinysrgb&h=350",
+          "image_credit": "",
+          "image_search_query": "cornmeal fried catfish plate"
+        },
+        {
+          "body": "Haddock hand-battered in a Cajun-spiced blend for those who like it bold.",
+          "title": "Spicy Cajun Haddock",
+          "icon_name": "Zap",
+          "image_alt": "Delicious crispy Thai fish cakes served with sweet chili dip on a rustic wooden table.",
+          "image_url": "https://images.pexels.com/photos/35001787/pexels-photo-35001787.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "image_thumb": "https://images.pexels.com/photos/35001787/pexels-photo-35001787.jpeg?auto=compress&cs=tinysrgb&h=350",
+          "image_credit": "",
+          "image_search_query": "spicy fried haddock fish plate"
+        }
+      ],
+      "layout": "cards-3",
+      "heading": "Tonight's Catch, Your Way",
+      "image_alt": "Crispy fish with a side of fries and fresh veggies served on a white plate.",
+      "image_url": "https://images.pexels.com/photos/19034923/pexels-photo-19034923.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "subheading": "Choose your favorite fish, choose your style — every order is fried fresh to your spec",
+      "image_thumb": "https://images.pexels.com/photos/19034923/pexels-photo-19034923.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "image_credit": ""
+    },
+    {
+      "type": "gallery",
+      "items": [
+        {
+          "title": "Hand-Cut Chips",
+          "image_alt": "A hand operates a deep fryer cooking fresh french fries in oil.",
+          "image_url": "https://images.pexels.com/photos/8879638/pexels-photo-8879638.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "image_thumb": "https://images.pexels.com/photos/8879638/pexels-photo-8879638.jpeg?auto=compress&cs=tinysrgb&h=350",
+          "image_credit": "",
+          "image_search_query": "crispy hand cut fries chips basket"
+        },
+        {
+          "title": "Fresh Batter, Daily",
+          "image_alt": "African American man mixing batter in a modern kitchen, focusing on food preparation and home cooking.",
+          "image_url": "https://images.pexels.com/photos/6947140/pexels-photo-6947140.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "image_thumb": "https://images.pexels.com/photos/6947140/pexels-photo-6947140.jpeg?auto=compress&cs=tinysrgb&h=350",
+          "image_credit": "",
+          "image_search_query": "chef battering fish kitchen"
+        },
+        {
+          "title": "Packed Fresh for Delivery",
+          "image_alt": "A deliveryman in a green jacket holding an eco-friendly food package outside a restaurant.",
+          "image_url": "https://images.pexels.com/photos/12725450/pexels-photo-12725450.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "image_thumb": "https://images.pexels.com/photos/12725450/pexels-photo-12725450.jpeg?auto=compress&cs=tinysrgb&h=350",
+          "image_credit": "",
+          "image_search_query": "takeaway fish and chips box packaging"
+        }
+      ],
+      "layout": "grid",
+      "heading": "A Peek Inside the Fryer",
+      "image_alt": "Delicious fish and chips with cold beer served on a wooden table, perfect for a casual meal.",
+      "image_url": "https://images.pexels.com/photos/10289311/pexels-photo-10289311.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_thumb": "https://images.pexels.com/photos/10289311/pexels-photo-10289311.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "image_credit": "",
+      "image_search_query": "cozy british fish and chips shop interior"
+    },
+    {
+      "body": "Our head chef grew up frying fish in London's classic chippies before bringing the recipe stateside. At Fish D Chips, he combined that time-honored beer batter with an idea nobody else in Atlanta was doing: let guests choose their own fish, fried in the style they crave — from classic London beer batter to Southern cornmeal crunch. It's a new concept built on an old craft.",
+      "type": "about",
+      "layout": "image-left",
+      "heading": "From London's Chip Shops to South Fulton's Table",
+      "image_alt": "A chef displaying a fresh salmon fillet on a knife in a professional kitchen setting.",
+      "image_url": "https://images.pexels.com/photos/9698118/pexels-photo-9698118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "subheading": "Meet the chef behind the batter",
+      "image_thumb": "https://images.pexels.com/photos/9698118/pexels-photo-9698118.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "image_credit": "",
+      "image_placement": "side",
+      "image_search_query": "chef portrait fish and chips kitchen london"
+    },
+    {
+      "type": "stats",
+      "items": [
+        {
+          "body": "Average customer rating",
+          "title": "4.9★",
+          "image_alt": "Close-up of fish and chips with fresh cucumber and tomato salad on a white plate.",
+          "image_url": "https://images.pexels.com/photos/19034915/pexels-photo-19034915.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "image_thumb": "https://images.pexels.com/photos/19034915/pexels-photo-19034915.jpeg?auto=compress&cs=tinysrgb&h=350",
+          "image_credit": ""
+        },
+        {
+          "body": "Orders fried & delivered",
+          "title": "15,000+",
+          "image_alt": "Close-up of a savory fish and chips dish garnished with fresh herbs, highlighting traditional flavors.",
+          "image_url": "https://images.pexels.com/photos/19034918/pexels-photo-19034918.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "image_thumb": "https://images.pexels.com/photos/19034918/pexels-photo-19034918.jpeg?auto=compress&cs=tinysrgb&h=350",
+          "image_credit": ""
+        },
+        {
+          "body": "Fish styles to choose from",
+          "title": "6",
+          "image_alt": "Delicious crispy fish and chips served in traditional paper, captured in Richmond, BC.",
+          "image_url": "https://images.pexels.com/photos/29176169/pexels-photo-29176169.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "image_thumb": "https://images.pexels.com/photos/29176169/pexels-photo-29176169.jpeg?auto=compress&cs=tinysrgb&h=350",
+          "image_credit": ""
+        },
+        {
+          "body": "Fresh, never frozen batter",
+          "title": "100%",
+          "image_alt": "Top view of crispy fish and chips with fresh salad and tartar sauce on a wooden table.",
+          "image_url": "https://images.pexels.com/photos/5863643/pexels-photo-5863643.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "image_thumb": "https://images.pexels.com/photos/5863643/pexels-photo-5863643.jpeg?auto=compress&cs=tinysrgb&h=350",
+          "image_credit": ""
+        }
+      ],
+      "layout": "grid",
+      "heading": "Loved Across South Fulton",
+      "image_alt": "Delicious crispy fish and chips served with red and white dipping sauces on a newsprint lined platter.",
+      "image_url": "https://images.pexels.com/photos/30654938/pexels-photo-30654938.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_thumb": "https://images.pexels.com/photos/30654938/pexels-photo-30654938.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "image_credit": ""
+    },
+    {
+      "type": "testimonials",
+      "items": [
+        {
+          "body": "Finally, real London-style fish and chips in Atlanta. The batter is unbelievably crisp and it actually arrives hot.",
+          "quote": "Finally, real London-style fish and chips in Atlanta. The batter is unbelievably crisp and it actually arrives hot.",
+          "author": "Marcus T., South Fulton",
+          "image_alt": "Dynamic scene of fish throwing at Pike Place Market in Seattle, a vibrant local tradition.",
+          "image_url": "https://images.pexels.com/photos/29239563/pexels-photo-29239563.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "image_thumb": "https://images.pexels.com/photos/29239563/pexels-photo-29239563.jpeg?auto=compress&cs=tinysrgb&h=350",
+          "image_credit": ""
+        },
+        {
+          "body": "Being able to pick my own fish and frying style is genius. I get the cornmeal catfish every single time.",
+          "quote": "Being able to pick my own fish and frying style is genius. I get the cornmeal catfish every single time.",
+          "author": "Danielle R., Atlanta",
+          "image_alt": "Smiling chef in denim shirt serves freshly cooked meals in a restaurant kitchen.",
+          "image_url": "https://images.pexels.com/photos/19420186/pexels-photo-19420186.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+          "image_thumb": "https://images.pexels.com/photos/19420186/pexels-photo-19420186.jpeg?auto=compress&cs=tinysrgb&h=350",
+          "image_credit": ""
+        }
+      ],
+      "layout": "quotes",
+      "heading": "What Our Regulars Are Saying",
+      "image_alt": "Delicious fried fish served with lime, fries, and salsa. Perfect for a seafood feast.",
+      "image_url": "https://images.pexels.com/photos/33649028/pexels-photo-33649028.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "image_thumb": "https://images.pexels.com/photos/33649028/pexels-photo-33649028.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "image_credit": ""
+    },
+    {
+      "cta": "Order Now & Follow Us",
+      "type": "cta",
+      "layout": "image-background",
+      "heading": "Join the Fish D Chips Fan Club",
+      "image_alt": "Tasty meal of fried chicken, plantains, and fries in a takeaway box from The Big Breakfast.",
+      "image_url": "https://images.pexels.com/photos/38644468/pexels-photo-38644468.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+      "subheading": "Follow us on social media for menu drops, secret batter specials, and first access to new fish styles — plus order online for delivery or pickup tonight.",
+      "cta_urgency": "Open daily — order online for fast delivery",
+      "image_thumb": "https://images.pexels.com/photos/38644468/pexels-photo-38644468.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "image_credit": "",
+      "image_placement": "background",
+      "image_search_query": "fish and chips takeout delivery night atlanta"
+    }
+  ]
+}
